@@ -7,6 +7,11 @@
 ### About me
 I'm a studant of C linguage. Begining the carrer how developer. 🔙🔚
 
-- [Courses](https://www.udemy.com/course/curso-completo-de-linguagem-c-iniciante-ao-avancado/learn/lecture/8109922#content) 👨🏼‍🏫 - It's are technical course in C linguage. 
+- [Courses](https://www.udemy.com/course/curso-completo-de-linguagem-c-iniciante-ao-avancado/learn/lecture/8109922#content) 👨🏼‍🏫 - It's are technical course in C linguage.
+
+### Language and tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
 
  Thank you for visit 😉
